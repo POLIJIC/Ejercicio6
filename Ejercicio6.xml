@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE listacursos SYSTEM "Ejercicio6.dtd">
+<listacursos>
+    <curso>
+        <alumno>
+            <dni>1006552525</dni>
+            <nombre>Emilio</nombre>
+            <apellido1>Alvarez</apellido1>
+            <apellido2>Perez</apellido2>
+            <listaasignaturas>
+                <asignatura codigo="ASIG205">
+                    <nombre>CES-3</nombre>
+                    <profesor>
+                        <nrp>254552322</nrp>
+                        <nombre>Wilmar</nombre>
+                        <apellido1>Paez</apellido1>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+    <curso>
+        <alumno>
+            <dni>25256354</dni>
+            <nombre>Andres</nombre>
+            <apellido1>Sierra</apellido1>
+            <listaasignaturas>
+                <asignatura codigo="ASIG23">
+                    <nombre>Base de datos 2</nombre>
+                    <profesor>
+                        <nrp>2566455</nrp>
+                        <nombre>Jose</nombre>
+                        <apellido1>Ospina</apellido1>
+                        <apellido2>Ospina</apellido2>
+                    </profesor>
+                </asignatura>
+            </listaasignaturas>
+        </alumno>
+    </curso>
+</listacursos>
